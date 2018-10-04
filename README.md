@@ -9,7 +9,7 @@ cli
 [![top level coverage](https://gocover.io/_badge/github.com/urfave/cli?0 "top level coverage")](http://gocover.io/github.com/urfave/cli) /
 [![altsrc coverage](https://gocover.io/_badge/github.com/urfave/cli/altsrc?0 "altsrc coverage")](http://gocover.io/github.com/urfave/cli/altsrc)
 
-This is the library formerly known as `github.com/codegangsta/cli` -- Github
+Sanity check. This is the library formerly known as `github.com/codegangsta/cli` -- Github
 will automatically redirect requests to this repository, but we recommend
 updating your references for clarity.
 
